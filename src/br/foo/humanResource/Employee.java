@@ -36,6 +36,6 @@ public class Employee {
 	}
 	
 	public String toString() {
-		return "Funcionário: " + getId() + " " + getName() + " " + getSalary();
+		return "Funcionário: " + "ID: " + getId() + " | Nome: " + getName() + " | Remuneração: " + getSalary();
 	}
 }

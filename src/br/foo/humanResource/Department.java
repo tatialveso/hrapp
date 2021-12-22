@@ -77,6 +77,6 @@ public class Department {
 
 	//to string method
 	public String toString() {
-		return "Departamento:" + getName();
+		return "DEPARTAMENTO: " + getName();
 	}
 }
